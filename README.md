@@ -35,6 +35,8 @@ Este repositorio contiene la infraestructura como código (IaC) para desplegar u
 
 ## Instalación y Despliegue
 
+Los archivos "pam_vsftpd" y "vsftpd.conf" deben ir en una carpeta conf, ya que github no me deja subir con carpetas.
+
 1. Descarga los archivos.
 2. En la raíz del directorio, ejecuta:
 
